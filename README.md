@@ -1,1 +1,1 @@
-# Shell_basics mu fris shall script
+My Frist shell scripet 
